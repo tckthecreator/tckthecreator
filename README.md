@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on NodeJs e ExpressJs
-- 🌱 I’m currently learning NestJs, Typescript, POO, TDD, BDD e Postgresql
+- 🔭 I’m currently working on NodeJS e NestJS
+- 🌱 I’m currently learning Typescript, POO, TDD, BDD e Postgresql
 - 📫 How to reach me: https://linktr.ee/dsoouuzavictor
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Human Database about Sitcoms
