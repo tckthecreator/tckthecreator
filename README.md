@@ -1,6 +1,5 @@
-## Hi there 
-
-Desenvolvedor FullStack Jr, atualmente realizando vários projetos, principalmente na área backend, utilizando as API's do Twitter e Discord para desenvolvimento de novas aplicações.Trabalhando com os frameworks NodeJS, ReactJS e React Native. No momento, estudando Typescript, POO, Padrões de Projeto, Microservices, TDD e BDD.
+## Hi, there 
+Sou um desenvolvedor back-end, faço faculdade de Ciência da Computação na Universidade Estácio de Sá e sou apaixonado por programação desde os meus 14 anos. Sou comunicativo, trabalho bem em equipe, participativo, determinado, líder por exemplo, motivado em resolver problemas e movido por desafios. Além disso, geek, amante da literatura e jogador de xadrez.
 
 - 🔭 I’m currently working on NodeJS e NestJS
 - 🌱 I’m currently learning Typescript, POO, TDD, BDD e Postgresql
