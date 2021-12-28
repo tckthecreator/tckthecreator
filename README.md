@@ -5,7 +5,7 @@ Sou um desenvolvedor back-end, faço faculdade de Ciência da Computação na Un
 - 🌱 I’m currently learning Typescript, POO, TDD, BDD e Postgresql
 - 📫 How to reach me: https://linktr.ee/dsoouuzavictor
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Human Database about Sitcoms
+- ⚡ Fun fact: I don't know what im doing
 
 <div>
   <a href="https://github.com/tckthecreator">
