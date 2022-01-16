@@ -1,8 +1,8 @@
 ## Hi, there 
 Sou um desenvolvedor back-end, faço faculdade de Ciência da Computação na Universidade Estácio de Sá e sou apaixonado por programação desde os meus 14 anos. Sou comunicativo, trabalho bem em equipe, participativo, determinado, líder por exemplo, motivado em resolver problemas e movido por desafios. Além disso, geek, amante da literatura e jogador de xadrez.
 
-- 🔭 I’m currently working on NodeJS e NestJS
-- 🌱 I’m currently learning Typescript, POO, TDD, BDD e Postgresql
+- 🔭 I’m currently working on NodeJS, AWS Lambda and Nestjs
+- 🌱 I’m currently learning Go, Solidity and Web3
 - 📫 How to reach me: https://linktr.ee/dsoouuzavictor
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what im doing
