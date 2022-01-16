@@ -1,5 +1,5 @@
 ## Hi, there 
-Sou um desenvolvedor back-end, faço faculdade de Ciência da Computação na Universidade Estácio de Sá e sou apaixonado por programação desde os meus 14 anos. Sou comunicativo, trabalho bem em equipe, participativo, determinado, líder por exemplo, motivado em resolver problemas e movido por desafios. Além disso, geek, amante da literatura e jogador de xadrez.
+I'm a Software Engineer, currently building @Captis
 
 - 🔭 I’m currently working on NodeJS, AWS Lambda and Nestjs
 - 🌱 I’m currently learning Go, Solidity and Web3
