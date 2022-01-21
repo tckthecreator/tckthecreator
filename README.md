@@ -1,5 +1,5 @@
 ## Hi, there 
-I'm a Software Engineer, currently building @Captis
+I'm a Software Engineer, building @Captis
 
 - 🔭 I’m currently working on NodeJS, AWS Lambda and Nestjs
 - 🌱 I’m currently learning Go, Solidity and Web3
