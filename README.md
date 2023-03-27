@@ -1,9 +1,7 @@
 ## Hi, there 
 I'm a Software Engineer, building @Captis
 
-- 🔭 I’m currently working on NodeJS, AWS Lambda and Nestjs
-- 🌱 I’m currently learning Go, Solidity and Web3
-- 📫 How to reach me: https://linktr.ee/dsoouuzavictor
+- 🔭 I’m currently working on Go, NodeJS and AWS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what im doing
 
