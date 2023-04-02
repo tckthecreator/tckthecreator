@@ -1,5 +1,5 @@
 ## Hi, there 
-I'm a Software Engineer, building @Captis
+I'm a Software Engineer, building @Captis and @Duofinder
 
 - 🔭 I’m currently working on Go, NodeJS and AWS
 - 😄 Pronouns: He/Him
