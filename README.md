@@ -5,11 +5,11 @@ I'm a Software Engineer, building @Captis and @Duofinder
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what im doing
 
-<div>
+<!-- <div>
   <a href="https://github.com/tckthecreator">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tckthecreator&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tckthecreator&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 
   ##
   
