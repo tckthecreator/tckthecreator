@@ -1,6 +1,3 @@
-## Hi, there 
-I'm a Software Engineer, building @Captis and @Duofinder
-
 - 🔭 I’m currently working on Go, NodeJS and AWS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know what im doing
