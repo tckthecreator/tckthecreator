@@ -1,7 +1,4 @@
-- 🔭 I’m currently working on Go, NodeJS and AWS
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know what im doing
-
+- 🔭 I’m currently working on Go, Node and Python. Studying DevSecOps
 <!-- <div>
   <a href="https://github.com/tckthecreator">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tckthecreator&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
